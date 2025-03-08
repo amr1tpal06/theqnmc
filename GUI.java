@@ -20,8 +20,7 @@ import javax.swing.UIManager;
 import javax.swing.UIManager.LookAndFeelInfo;
 
 public class GUI extends JFrame {
-	
-	private static final long serialVersionUID = 1L;
+
 	private JPanel panel;
 	
 	private JLabel minInput;
@@ -31,7 +30,6 @@ public class GUI extends JFrame {
 	private JTextArea resultShow;
 	private JButton calBt;
 	@SuppressWarnings("unused")
-	private int i = 0;
 
 	
 	static public int k=0;

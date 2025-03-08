@@ -8,8 +8,6 @@ import javax.swing.*;
 
 public class MenuBar extends JMenuBar {
 
-	private static final long serialVersionUID = 1L;
-
 	public static int bits;
 
 	private String d1 = "Jane Smith";
